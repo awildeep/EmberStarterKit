@@ -4,7 +4,7 @@ Ember JS Starter kit
 For use with Tom Dale's intro video.  See:
 https://www.youtube.com/watch?v=Ga99hMi7wfY
 
-There is no included backend, however all required libraries are installed and a Vagrant build is included for a quick start.
+There is no included backend.  As such everything after roughly the 25 minute mark in the video will no be usable, however all required libraries are installed and a Vagrant build is included for a quick start.
 
 To install and get started:
 
