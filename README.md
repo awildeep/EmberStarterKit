@@ -10,6 +10,7 @@ To install and get started:
 
 * Install VirtualBox
 * Install Vagrant (vargantup.com)
+* Google Chrome is recommended, as this is used in the video.
 * Clone this repository
   * `cd DIRECTORY_YOU_WANT_THIS_IN`
   * `git clone https://github.com/awildeep/EmberStarterKit.git`
