@@ -3,6 +3,6 @@ html, body {
     margin: 20px;
 }
 
-a.active {
+ul.nav a.active {
     font-weight: bold;
 }
