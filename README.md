@@ -9,7 +9,7 @@ There is no included backend.  As such everything after roughly the 25 minute ma
 To install and get started:
 
 * Install VirtualBox
-* Install Vagrant (vargantup.com)
+* Install Vagrant (vagrantup.com)
 * Google Chrome is recommended, as this is used in the video.
 * Clone this repository
   * `cd DIRECTORY_YOU_WANT_THIS_IN`
