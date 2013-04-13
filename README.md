@@ -17,7 +17,7 @@ To install and get started:
 * Add this line to your /etc/hosts file (in terminal):
   * `sudo echo "127.0.0.1     deployment.dev" >> /etc/hosts`
 * Configure/start the VM (in terminal), this also works if the VM has been halted later:
-  * `cd path_where_you_want_the_repo/search/vagrant_local`
+  * `cd path_where_you_want_the_repo/EmberStarterKit/vagrant_local`
   * `vagrant up`
 * Get some coffee, this has to download a snapshot image of Ubuntu to build you VM, install apache/postgres and provision the software.
 * When its done, you should be able to point your browser to:
