@@ -23,9 +23,9 @@ To install and get started:
 * When its done, you should be able to point your browser to:
   * http://deployment.dev:8080/index.html
 * To shutdown the VM:
-  * `cd path_where_you_want_the_repo/search/vagrant_local`
+  * `cd path_where_you_want_the_repo/EmberStarterKit/vagrant_local`
   * `vagrant halt`
 * To destroy the VM
-  * `cd path_where_you_want_the_repo/search/vagrant_local`
+  * `cd path_where_you_want_the_repo/EmberStarterKit/vagrant_local`
   * `vagrant destroy`
 * Edit the files contained in ./web and start Ember hacking.
